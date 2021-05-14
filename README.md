@@ -4,3 +4,12 @@ invite link: https://discord.com/api/oauth2/authorize?client_id=8427309972755578
 prefix is "/"
 
 Note: Bot is still in development, if you want to suggest anythingy do /suggest <suggestion>
+  
+  
+ 
+Features as of now:
+
+- Generate a Resource and Behavior Pack Manifest.json `/manifest <resource/behavior> <title> <description>`
+- Generate a version 4 UUID `/uuid`
+
+Note: When don't include the <> and if you're the title or description is longer than a word put `""`
