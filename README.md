@@ -1,6 +1,6 @@
 # pack-man
 
-will put the code here soon
+will put the code here soon :)
 
 invite link: https://discord.com/api/oauth2/authorize?client_id=842730997275557898&permissions=2617769041&scope=bot
 
