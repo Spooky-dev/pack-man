@@ -17,3 +17,5 @@ Features as of now:
 
 Note: When don't include the <> and if you're the title or description is longer than a word put `""`
 
+Have Fun! :D
+
