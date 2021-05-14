@@ -16,4 +16,4 @@ Features as of now:
 - Generate a version 4 UUID `/uuid`
 
 Note: When don't include the <> and if you're the title or description is longer than a word put `""`
-      I am currently hosting the bot in Repl.it, so if the bot is offline, DM the owner on discord: Spooky#0683
+      \nI am currently hosting the bot in Repl.it, so if the bot is offline, DM the owner on discord: Spooky#0683
