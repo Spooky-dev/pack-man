@@ -16,6 +16,6 @@ Features as of now:
 - Generate a Resource and Behavior Pack Manifest.json `/manifest <resource/behavior> <title> <description>`
 - Generate a version 4 UUID `/uuid`
 
-Note: When don't include the `< >` and if the title or description is longer than a word put `" "`
+Note: Don't include the `< >` and if the title or description is longer than a word put `" "`
 
 Have Fun! :D
