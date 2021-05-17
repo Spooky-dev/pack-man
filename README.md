@@ -21,5 +21,6 @@ Note: Don't include the `< >` and if the title or description is longer than a w
 Have Fun! :D
 
 # Changelogs
-
+  
+ **version 1.1**
 -Added `/changeprefix` command
