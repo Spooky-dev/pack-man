@@ -24,4 +24,4 @@ Have Fun! :D
   
  Version 1.1:
  
-  - Added `/changeprefix` command
+  - Added `/changeprefix` command. If commands aren't working, re-invite bot.
