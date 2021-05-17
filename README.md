@@ -22,5 +22,5 @@ Have Fun! :D
 
 # Changelogs
   
- **version 1.1**
+ version 1.1
 -Added `/changeprefix` command
