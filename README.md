@@ -19,3 +19,7 @@ Features as of now:
 Note: Don't include the `< >` and if the title or description is longer than a word put `" "`
 
 Have Fun! :D
+
+# Changelogs
+
+-Added `/changeprefix` command
