@@ -25,7 +25,7 @@ Have Fun! :D
  Version 1.1:
  
   - Added `/changeprefix` command. If commands aren't working, re-invite bot.
-  - Separated the Note and the Manifest for easier coyping on mobile.
+  - Separated the Note and the Manifest for easier copying on mobile.
 
 Version 1.2:
 
