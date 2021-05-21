@@ -26,3 +26,7 @@ Have Fun! :D
  
   - Added `/changeprefix` command. If commands aren't working, re-invite bot.
   - Separated the Note and the Manifest for easier coyping on mobile.
+
+Version 1.2:
+
+  - Removed `Command Not Found` error handler 
