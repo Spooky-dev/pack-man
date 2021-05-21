@@ -7,7 +7,7 @@ will put the code here soon :)
 
 invite link: https://discord.com/api/oauth2/authorize?client_id=842730997275557898&permissions=2617769041&scope=bot
 
-Prefix is "/" | To change prefix `/changeprefix <prefix>`
+Prefix is `/` | To change prefix `/changeprefix <prefix>`
  
 Note: Bot is still in development, if you want to suggest anythingy do `/suggest <suggestion>`. I am currently hosting the bot in Repl.it, so I'm sorry if the bot just suddenly becomes offline, you can DM the owner on discord: `Spooky#0683` to turn it on again 😅
 
