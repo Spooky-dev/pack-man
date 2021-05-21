@@ -1,6 +1,8 @@
 # pack-man
   A simple bot that generates a `manifest.json` for Minecraft Bedrock Resource and Behavior Packs
   
+ <img source='https://images-ext-1.discordapp.net/external/RaaNbXrRQUM2tkYOvbrVLGtZvBd1BCusJCqwPOz3ftc/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/842730997275557898/8b77bd32afa71ddd1bc7a817625bcc69.webp' alt='pack-man icon'>
+  
 will put the code here soon :)
 
 invite link: https://discord.com/api/oauth2/authorize?client_id=842730997275557898&permissions=2617769041&scope=bot
