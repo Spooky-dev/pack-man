@@ -29,4 +29,5 @@ Have Fun! :D
 
 Version 1.2:
 
-  - Removed `Command Not Found` error handler 
+  - Removed `Command Not Found` error handler.
+  - Added `/colorcodes` command. Sends all Minecraft Bedrock Color Codes. Credits to the bot on Bedrock Addons server for the command idea.
