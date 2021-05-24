@@ -31,7 +31,7 @@ Version 1.2:
 
 Version 1.3:
 
-  - `manifest` command error handler.
+  - Added `manifest` command error handler.
   - added a custom help command for `/manifest` and `/changeprefix`. Command: `/help <command>`.
   - Added changing discord bot presence.
 
