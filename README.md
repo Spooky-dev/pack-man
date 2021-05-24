@@ -2,12 +2,12 @@
   A simple bot that generates a `manifest.json` for Minecraft Bedrock Resource and Behavior Packs
   
  <img src='https://images-ext-1.discordapp.net/external/RaaNbXrRQUM2tkYOvbrVLGtZvBd1BCusJCqwPOz3ftc/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/842730997275557898/8b77bd32afa71ddd1bc7a817625bcc69.webp' alt='pack-man icon'>
+ 
+<a href="https://discord.com/api/oauth2/authorize?client_id=842730997275557898&permissions=2617769041&scope=bot" rel="Invite Link">![Foo](https://media.discordapp.net/attachments/836232703379505183/846282697340616714/invite.png)</a>
   
 will put the code here soon :)
 
 If you have any questions just DM Spooky on discord: `Spooky#0683` | [Website](https://itsspooky.netlify.app/ "Spooky's Website")
-
-invite link: https://discord.com/api/oauth2/authorize?client_id=842730997275557898&permissions=2617769041&scope=bot
 
 Prefix is `/` | To change prefix `/changeprefix <prefix>`
  
@@ -34,7 +34,3 @@ Version 1.3:
   - Added `manifest` command error handler.
   - added a custom help command for `/manifest` and `/changeprefix`. Command: `/help <command>`.
   - Added changing discord bot presence.
-
-<a href="https://discord.com/api/oauth2/authorize?client_id=842730997275557898&permissions=2617769041&scope=bot" rel="Invite Link" target="_blank">![Foo](https://media.discordapp.net/attachments/836232703379505183/846282697340616714/invite.png)</a>
-
-
