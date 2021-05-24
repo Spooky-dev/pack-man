@@ -35,4 +35,6 @@ Version 1.3:
   - added a custom help command for `/manifest` and `/changeprefix`. Command: `/help <command>`.
   - Added changing discord bot presence.
 
+<a href="http://google.com.au/" rel="some text">![Foo](http://www.google.com.au/images/nav_logo7.png)</a>
+
 
