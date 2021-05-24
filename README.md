@@ -5,6 +5,8 @@
   
 will put the code here soon :)
 
+If you have any questions just DM Spooky on discord: `Spooky#0683` | (Website)[https://itsspooky.netlify.app/]
+
 invite link: https://discord.com/api/oauth2/authorize?client_id=842730997275557898&permissions=2617769041&scope=bot
 
 Prefix is `/` | To change prefix `/changeprefix <prefix>`
