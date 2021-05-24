@@ -35,6 +35,6 @@ Version 1.3:
   - added a custom help command for `/manifest` and `/changeprefix`. Command: `/help <command>`.
   - Added changing discord bot presence.
 
-<a href="https://discord.com/api/oauth2/authorize?client_id=842730997275557898&permissions=2617769041&scope=bot" rel="Invite Link">![Foo](https://media.discordapp.net/attachments/836232703379505183/846282697340616714/invite.png)</a>
+<a href="https://discord.com/api/oauth2/authorize?client_id=842730997275557898&permissions=2617769041&scope=bot" rel="Invite Link" target=_blank>![Foo](https://media.discordapp.net/attachments/836232703379505183/846282697340616714/invite.png)</a>
 
 
