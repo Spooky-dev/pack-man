@@ -27,4 +27,10 @@ Version 1.2:
   - Removed `Command Not Found` error handler.
   - Added `/colorcodes` command. Sends all Minecraft Bedrock Color Codes. Credits to the bot on Bedrock Addons server for the command idea.
 
+Version 1.3:
+
+  - `manifest` command error handler.
+  - added a custom help command for `/manifest` and `/changeprefix`. Command: `/help <command>`.
+  - Added changing discord bot presence.
+
 
