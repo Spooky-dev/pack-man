@@ -45,7 +45,6 @@ Version 1.5:
 
  - Changed the uuid command for easir copying on mobile. *Suggested by Void988#5929*
  - Added Embedded buttons on commands:
-    - Ping
     - UUID
     - Invite
  - Cleaned some of the Code.
