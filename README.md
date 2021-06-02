@@ -22,7 +22,7 @@ Have Fun! :D
  Version 1.1:
  
   - Added `/changeprefix` command. If commands aren't working, re-invite bot.
-  - Separated the Note and the Manifest for easier copying on mobile.
+  - Separated the Note and the Manifest for easier copying on mobile. *Suggested by Lad#9098*
 
 Version 1.2:
 
@@ -43,7 +43,7 @@ Version 1.4:
 
 Version 1.5:
 
- - Changed the uuid command for easir copying on mobile. *test*
+ - Changed the uuid command for easir copying on mobile. *Suggested by Void988#5929*
  - Added Embedded buttons on commands:
     - Ping
     - UUID
