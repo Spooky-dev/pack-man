@@ -40,3 +40,11 @@ Version 1.4:
  - Cleaned up some of the Code.
  - Changed how the generated `manifest.json` looks, it's a bit ugly but still works.
  - Updated the `manifest` command error handler.
+
+Version 1.5:
+
+ - Changed the uuid command for easir copying on mobile.
+ - Added Embedded buttons on commands:
+    - Ping
+    - UUID
+ - Cleaned some of the Code.
