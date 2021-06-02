@@ -47,4 +47,5 @@ Version 1.5:
  - Added Embedded buttons on commands:
     - Ping
     - UUID
+    - Invite
  - Cleaned some of the Code.
