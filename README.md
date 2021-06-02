@@ -43,7 +43,7 @@ Version 1.4:
 
 Version 1.5:
 
- - Changed the uuid command for easir copying on mobile. [//]: <> (This is also a comment.)
+ - Changed the uuid command for easir copying on mobile. *test*
  - Added Embedded buttons on commands:
     - Ping
     - UUID
