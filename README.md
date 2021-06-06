@@ -53,13 +53,10 @@ Version 1.6:
  
   - Added `/rotate <image_url> <degrees>` command.
     - Rotates most images
-    [![Rotate exmaple]({https://images-ext-1.discordapp.net/external/RaaNbXrRQUM2tkYOvbrVLGtZvBd1BCusJCqwPOz3ftc/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/842730997275557898/8b77bd32afa71ddd1bc7a817625bcc69.webp})]({https://cdn.discordapp.com/attachments/836232742366478347/851122087221002260/rotate.mp4} "Rotate Example")
+    - https://imgur.com/PZ0K3W7
     
   - Added `/scale <image_url>` command.
     - Scales most images to 300x300.
-    [![Rotate exmaple]({https://imgur.com/PaSLQ61})]({https://imgur.com/PaSLQ61} "Rotate Example")
-    
-    
-    [![Alternate Text]({image-url})]({https://imgur.com/PaSLQ61} "Link Title")
+    - https://imgur.com/PaSLQ61
 
 
