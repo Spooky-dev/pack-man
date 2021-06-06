@@ -57,6 +57,6 @@ Version 1.6:
     
   - Added `/scale <image_url>` command.
     - Scales most images to 300x300.
-    [![Rotate exmaple]({https://images-ext-1.discordapp.net/external/RaaNbXrRQUM2tkYOvbrVLGtZvBd1BCusJCqwPOz3ftc/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/842730997275557898/8b77bd32afa71ddd1bc7a817625bcc69.webp})]({https://cdn.discordapp.com/attachments/836232742366478347/851122091188158534/scale.mp4} "Rotate Example")
+    [![Rotate exmaple]({https://images-ext-1.discordapp.net/external/RaaNbXrRQUM2tkYOvbrVLGtZvBd1BCusJCqwPOz3ftc/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/842730997275557898/8b77bd32afa71ddd1bc7a817625bcc69.webp})]({https://imgur.com/PaSLQ61} "Rotate Example")
 
 
