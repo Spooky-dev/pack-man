@@ -58,5 +58,8 @@ Version 1.6:
   - Added `/scale <image_url>` command.
     - Scales most images to 300x300.
     [![Rotate exmaple]({https://imgur.com/PaSLQ61})]({https://imgur.com/PaSLQ61} "Rotate Example")
+    
+    
+    [![Alternate Text]({image-url})]({https://imgur.com/PaSLQ61} "Link Title")
 
 
