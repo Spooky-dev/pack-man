@@ -1,28 +1,30 @@
 # Changelogs
+
+Created at /14/2021
   
- Version 1.1:
+ Version 1.1: *5/20/2021*
  
   - Added `/changeprefix` command. If commands aren't working, re-invite bot.
   - Separated the Note and the Manifest for easier copying on mobile. *Suggested by Lad#9098*
 
-Version 1.2:
+Version 1.2: *5/21/2021*
 
   - Removed `Command Not Found` error handler.
   - Added `/colorcodes` command. Sends all Minecraft Bedrock Color Codes. Credits to the bot on Bedrock Addons server for the command idea.
 
-Version 1.3:
+Version 1.3: *5/23/2021*
 
   - Added `manifest` command error handler.
   - added a custom help command for `/manifest` and `/changeprefix`. Command: `/help <command>`.
   - Added changing discord bot presence.
 
-Version 1.4:
+Version 1.4: *5/31/2021*
 
  - Cleaned up some of the Code.
  - Changed how the generated `manifest.json` looks, it's a bit ugly but still works.
  - Updated the `manifest` command error handler.
 
-Version 1.5:
+Version 1.5: *6/2/2021*
 
  - Changed the uuid command for easir copying on mobile. *Suggested by Void988#5929*
  - Added Embedded buttons on commands:
@@ -30,7 +32,7 @@ Version 1.5:
     - Invite
  - Cleaned some of the Code.
 
-Version 1.6:
+Version 1.6: *6/2/2021*
  
   - Added `/rotate <image_url> <degrees>` command.
     - Rotates most images
