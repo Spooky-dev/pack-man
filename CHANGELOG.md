@@ -48,3 +48,9 @@ Version 1.7:
     - Rotate
   - Added `Pack-Man is typing...` when rotating or scaling images.
   - Cleaned up some of the code and added comments.
+
+Version 1.8:
+
+  - Added `/template` command. It sends the minecraft bedrock pack templates, all versions/betas.
+  - Cleaned some of the Code.
+  - Added `/help <command>` to all commands
