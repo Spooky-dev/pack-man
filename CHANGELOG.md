@@ -47,3 +47,4 @@ Version 1.7:
     - Scale
     - Rotate
   - Added `Pack-Man is typing...` when rotating or scaling images.
+  - Cleaned up some of the code and added comments.
