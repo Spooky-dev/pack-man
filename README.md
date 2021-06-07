@@ -59,4 +59,10 @@ Version 1.6:
     - Scales most images to 300x300.
     - https://imgur.com/PaSLQ61
 
+Version 1.7:
 
+  - Updated the Help Command.
+  - Added `/help <command>` to commands:
+    - Scale
+    - Rotate
+  - Added `Pack-Man is typing...` when rotating or scaling images.
