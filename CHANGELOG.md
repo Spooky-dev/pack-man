@@ -40,7 +40,7 @@ Version 1.6:
     - Scales most images to 300x300.
     - https://imgur.com/PaSLQ61
 
-Version 1.7:
+Version 1.7: *6/6/2021*
 
   - Updated the Help Command.
   - Added `/help <command>` to commands:
@@ -49,7 +49,7 @@ Version 1.7:
   - Added `Pack-Man is typing...` when rotating or scaling images.
   - Cleaned up some of the code and added comments.
 
-Version 1.8:
+Version 1.8: 6/7/2021
 
   - Added `/template` command. It sends the minecraft bedrock pack templates, all versions/betas.
   - Cleaned some of the Code.
