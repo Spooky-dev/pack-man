@@ -57,3 +57,7 @@ Version 1.8: 6/7/2021
   - Added `/template` command. It sends the minecraft bedrock pack templates, all versions/betas.
   - Cleaned some of the Code.
   - Added `/help <command>` to all commands.
+
+Version 1.9: *6/8/2021*
+
+   - Added `/help <category>`
