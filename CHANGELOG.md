@@ -61,3 +61,4 @@ Version 1.8: 6/7/2021
 Version 1.9: *6/8/2021*
 
    - Added `/help <category>`
+   - Changed the text of the `/invite` command. Before: Bot Invite Link | After: Press Button to Invite Bot!
