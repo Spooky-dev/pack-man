@@ -63,6 +63,13 @@ Version 1.9: *6/8/2021*
    - Added `/help <category>`
    - Changed the text of the `/invite` command. Before: Bot Invite Link | After: Press Button to Invite Bot!
 
-Version 2: *16/10/2021*
+Version 2: *6/10/2021*
 
   - Scale command now scales images maintaining their aspect ratio.
+
+Version 2.1: *6/14/2021*
+
+  - Added `/get <type> <file_name>` command. Sends a specific block/item texture with <file_name> as the file name.
+    - https://imgur.com/Snx4hI3
+  - Updated the Help Command to include the `get` command.
+  - Added `get` command error handler.
