@@ -73,3 +73,10 @@ Version 2.1: *6/14/2021*
     - https://imgur.com/Snx4hI3
   - Updated the Help Command to include the `get` command.
   - Added `get` command error handler.
+
+Version 2.2: *6/20/2021*
+ 
+  - Added command `/size <image_url>`. Sends the Image dimensions/size.
+  - Updated the error handler for commands:
+    - Rotate
+    - Scale
