@@ -80,3 +80,7 @@ Version 2.2: *6/20/2021*
   - Updated the error handler for commands:
     - Rotate
     - Scale
+
+Version 2.3: *6/22/2021*
+
+  - Fixed a bug where it send the embed twice upon using the scale command
