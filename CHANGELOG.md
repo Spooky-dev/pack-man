@@ -90,3 +90,4 @@ Version 2.3" *6/24/2021*
   - Cleaned up some of the codes.
   - Fixed sam horibal silengs!
   - Renamed Command `get` to `texture`.
+  - Added server prefixes in `/help <command>`. Will add on the help command soon.
