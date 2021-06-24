@@ -84,3 +84,8 @@ Version 2.2: *6/20/2021*
 Version 2.3: *6/22/2021*
 
   - Fixed a bug where it send the embed twice upon using the scale command
+
+Version 2.3" *6/24/2021*
+
+  - Cleaned up some of the codes.
+  - Fixed sam horibal silengs!
