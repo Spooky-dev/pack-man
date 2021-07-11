@@ -91,3 +91,8 @@ Version 2.3" *6/24/2021*
   - Fixed sam horibal silengs!
   - Renamed Command `get` to `texture`.
   - Added server prefixes in `/help <command>`. Will add on the help command soon.
+
+Version 2.3: *7/11/2021*
+
+  - Added a bookmark system.
+    - https://imgur.com/ULOkBlf
