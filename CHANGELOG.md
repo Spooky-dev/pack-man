@@ -102,3 +102,4 @@ Version 2.4: *7/15/2021*
   - Updated the help command to be more cleaner.
   - Added the server prefix in the help command.
   - Added the message author name and icon to the bookmark messages.
+  - Added the server prefix to all command error handlers.
