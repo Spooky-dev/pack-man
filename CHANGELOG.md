@@ -96,3 +96,9 @@ Version 2.3: *7/11/2021*
 
   - Added a bookmark system.
     - https://imgur.com/ULOkBlf
+
+Version 2.4: *7/15/2021*
+
+  - Updated the help command to be more cleaner.
+  - Added the server prefix in the help command.
+  - Added User Author and User Avatar in Bookmark Messages.
