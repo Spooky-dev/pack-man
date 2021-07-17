@@ -103,3 +103,7 @@ Version 2.4: *7/15/2021*
   - Added the server prefix in the help command.
   - Added the message author name and icon to the bookmark messages.
   - Added the server prefix to all command error handlers.
+
+Version 2.5: *7/17/2021*
+
+  - Added a feature where a user sends an image that is lower than 64x64 then if user reacts with "🔍" it will scale the image automatically.
