@@ -106,4 +106,4 @@ Version 2.4: *7/15/2021*
 
 Version 2.5: *7/17/2021*
 
-  - Added a feature where a user sends an image that is lower than 64x64 then if user reacts with "🔍" it will scale the image automatically.
+  - Added a feature where if  a user sends an image that is lower than 64x64 then if user reacts with "🔍" it will scale the image automatically.
