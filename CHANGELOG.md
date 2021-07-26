@@ -112,4 +112,4 @@ Version 2.6: *7/26/2021*
 
   - Cleaned up some of the code and files.
   - Moved the `texture` command to **General** category.
-  - Moved the `template` command to **Others* category.
+  - Moved the `template` command to **Others** category.
