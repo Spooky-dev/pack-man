@@ -107,3 +107,9 @@ Version 2.4: *7/15/2021*
 Version 2.5: *7/17/2021*
 
   - Added a feature where if a user sends an image that is lower than 64x64 then if the user reacts with ":mag:" it will scale the image automatically.
+
+Version 2.6: *7/26/2021*
+
+  - Cleaned up some of the code and files.
+  - Moved the `texture` command to **General** category.
+  - Moved the `template` command to **Others* category.
