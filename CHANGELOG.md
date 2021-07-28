@@ -113,3 +113,13 @@ Version 2.6: *7/26/2021*
   - Cleaned up some of the code and files.
   - Moved the `texture` command to **General** category.
   - Moved the `template` command to **Others** category.
+
+Version 2.7: *7/29/2021*
+
+  - Cleaned up some of the code.
+  - Added comments.
+  - Polished up some codes.
+  - Help command has been polished.
+  - Added an embed to the `ping` command.
+  - Added an embed to the `suggestion` command.
+  - Updated the `colorcodes` command.
