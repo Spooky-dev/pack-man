@@ -123,3 +123,7 @@ Version 2.7: *7/29/2021*
   - Added an embed to the `ping` command.
   - Added an embed to the `suggestion` command.
   - Updated the `colorcodes` command.
+
+Version 2.8: *7/29/2021*
+
+  - Updated default prefix to `pm/`.
