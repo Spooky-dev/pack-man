@@ -127,3 +127,4 @@ Version 2.7: *7/29/2021*
 Version 2.8: *7/29/2021*
 
   - Updated default prefix to `pm/`.
+  - Added the `help` command in the help command.
