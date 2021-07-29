@@ -11,9 +11,9 @@ will put the code here soon :)
 
 If you have any questions just DM Spooky on discord: `Spooky#0683` | [Website](https://itsspooky.netlify.app/ "Spooky's Website")
 
-Prefix is `/` | To change prefix `/changeprefix <prefix>`
+Prefix is `pm/` | To change prefix `pm/changeprefix <prefix>`
  
-Note: Bot is still in development, if you want to suggest anythingy do `/suggest <suggestion>`. I am currently hosting the bot in Repl.it, so I'm sorry if the bot just suddenly becomes offline, you can DM the owner on discord: `Spooky#0683` to turn it on again 😅
+Note: Bot is still in development, if you want to suggest anythingy do `pm/suggest <suggestion>`. I am currently hosting the bot in Repl.it, so I'm sorry if the bot just suddenly becomes offline, you can DM the owner on discord: `Spooky#0683` to turn it on again 😅
 
 Note: Don't include the `< >` and if the title or description is longer than a word put `" "`
 
