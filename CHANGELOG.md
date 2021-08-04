@@ -136,3 +136,4 @@ Version: 2.9: *8/4/2021*
     - Scale: https://imgur.com/Gn0afcH
     - Size: https://imgur.com/DOdRD1C
   - Updated help command.
+  - Updated single command help command.
