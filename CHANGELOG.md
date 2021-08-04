@@ -137,3 +137,4 @@ Version: 2.9: *8/4/2021*
     - Size: https://imgur.com/DOdRD1C
   - Updated help command.
   - Updated single command help command.
+  - Scale command now only scales images that are 64x or smaller.
