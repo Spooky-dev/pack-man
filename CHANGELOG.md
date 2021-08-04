@@ -128,3 +128,11 @@ Version 2.8: *7/29/2021*
 
   - Updated default prefix to `pm/`.
   - Added the `help` command in the help command.
+
+Version: 2.9: *8/4/2021*
+ 
+  - You dont need to get image url to rotate, scale, and to get image size. Just reply to any message with a image.
+    - Rotate: https://imgur.com/f584Dqs
+    - Scale: https://imgur.com/Gn0afcH
+    - Size: https://imgur.com/DOdRD1C
+  - Updated help command.
