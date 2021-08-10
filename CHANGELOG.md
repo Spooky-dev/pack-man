@@ -138,3 +138,7 @@ Version: 2.9: *8/4/2021*
   - Updated help command.
   - Updated single command help command.
   - Scale command now only scales images that are 64x or smaller.
+
+Version 3.0: *8/20/2021*
+
+  - Fixed some bugs and added a colon in the command: `pm/colorcodes`
