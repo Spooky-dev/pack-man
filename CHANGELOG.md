@@ -2,6 +2,7 @@
 
 Created at 05/14/2021 </br>
 Date might not be accurate :P
+Idk how this works lmao but yes
   
  Version 1.1: *5/20/2021*
  
@@ -142,3 +143,8 @@ Version: 2.9: *8/4/2021*
 Version 3.0: *8/20/2021*
 
   - Fixed some bugs and added a colon in the command: `pm/colorcodes`
+
+Version 3.1: *8/11/2021*
+
+  - Updated `scale` command to scale images lower than 256x rather than 64x.
+  - Updated `scale` command to scale images to 560x rather than 256x.
