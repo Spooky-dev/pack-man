@@ -152,3 +152,4 @@ Version 3.1: *8/11/2021*
 Version 3.2: *10/9/2021*
 
   - Updated the Error Handlers.
+  - Added new Error Handlers.
