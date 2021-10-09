@@ -148,3 +148,7 @@ Version 3.1: *8/11/2021*
 
   - Updated `scale` command to scale images lower than 256x rather than 64x.
   - Updated `scale` command to scale images to 560x rather than 256x.
+
+Version 3.2: *10/9/2021*
+
+  - Updated the Error Handlers.
