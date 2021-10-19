@@ -1,8 +1,10 @@
+## Pack - Man
+  Hello, I'm Pack-Man, a bot that can has lots of useful commands for pack making :)
+  
 # _DISCONTINUED_
   - My motivation for completing this project has depleted. The library I used to develop this bot, Discord.py, has been discontinued. As a result, I'm also discontinuing this project. It will remain online, but it will no longer get updates. Due to the discontinuation of the project, I will be removing the Invite Link, so don't kick the bot because you can't invite the bot back.
 
-## Pack - Man
-  Hello, I'm Pack-Man, a bot that can has lots of useful commands for pack making :)
+
 <!--   
  <img src='https://images-ext-1.discordapp.net/external/RaaNbXrRQUM2tkYOvbrVLGtZvBd1BCusJCqwPOz3ftc/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/842730997275557898/8b77bd32afa71ddd1bc7a817625bcc69.webp' alt='pack-man icon'>
   -->
