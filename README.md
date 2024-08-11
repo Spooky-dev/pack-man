@@ -23,7 +23,7 @@ Have Fun! :D
 
 ### Image Commands
 - `rotate` - rotates Images
-- `scale` - scales images
+- `scale` - scales textures
 - `size` - gets the image dimensions
 
 ### Other Commands
