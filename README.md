@@ -16,19 +16,23 @@ Have Fun! :D
 
 
 ### General Commands
-- manifest - generates a manifest.json
-- uuid - generates a uuidv4
-- colors - shows list of all color and format codes
-- texture - fetch any texture in Minecraft
+- `manifest` - generates a manifest.json
+- `uuid` - generates a uuidv4
+- `colors` - shows list of all color and format codes
+- `texture` - fetch any texture in Minecraft
 
 ### Image Commands
-- rotate - rotates Images
-- scale - scales images
-- size - gets the image dimensions
+- `rotate` - rotates Images
+- `scale` - scales images
+- `size` - gets the image dimensions
 
 ### Other Commands
-- template - fetches all pack templates for all versions
-- invite - invite bot
-- ping - fetches bot latency
-- change prefix - changes bot prefix
-- bookmark - bookmarks/pins messages
+- `template` - fetches all pack templates for all versions
+- `invite` - invite bot
+- `ping` - fetches bot latency
+- `change` prefix - changes bot prefix
+- `bookmark` - bookmarks/pins messages
+
+### React Commands
+- 🔍 - automatically runs `scale`
+- ✉️ - automatically runs `bookmark`
