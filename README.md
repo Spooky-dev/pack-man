@@ -27,6 +27,7 @@ Have Fun! :D
 - `size` - gets the image dimensions
 
 ### Other Commands
+- `help` - shows all commands
 - `template` - fetches all pack templates for all versions
 - `invite` - invite bot
 - `ping` - fetches bot latency
